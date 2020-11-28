@@ -1,0 +1,1 @@
+export const SampleText = "Si vous apprenez React ou créez une nouvelle application web monopage, alors utilisez Create React App."
